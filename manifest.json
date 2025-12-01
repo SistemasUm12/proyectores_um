@@ -1,0 +1,22 @@
+{
+  "name": "Reserva de Proyectores",
+  "short_name": "Proyectores",
+  "description": "Sistema de reserva de proyectores, laptops y extensiones",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#003087",
+  "theme_color": "#003087",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "Proyector.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Proyector.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
